@@ -1,0 +1,23 @@
+---
+bg: "321ready.jpg"
+layout: post
+title: "E... começou"
+date: 2019-04-04 22:21:05 -0300
+categories: "posts"
+---
+
+Já ha algum tempo vinha pensando em escrever sobre as coisas que estudo e aprendo ao longo do tempo. Um ensaio desse blog foi feito há mais ou menos um ano, mas acabou por estagnar. Recentemente inspirado por um grande programador e amigo [leualemax](https://leualemax.github.io/) resolvi retomar esse projeto.
+
+> \_ Mas o que vai ter?
+
+Bom, para responder essa pergunta espero apenas manter esse espaço ativo com posts sobre diferentes assuntos, sejam de tecnologia, progamação, jogos ou qualquer coisa que der vontade de escrever.
+
+> \_ Por que não escrever no medium ou outros espaços?
+
+Manter um blog possui vários desafios técnicos que o uso de plataformas como o medium não tras, devido a facilidade de hospedagem, mecanismos de busca etc. Sendo bem sincero não acho que são coisas excludentes, afinal o conteúdo pode estar em vários lugares ao mesmo tempo. O maior motivo para ter esse espaço é a liberdade de escrever o que quiser e quando quiser, sem me importar com absolutamente nada, desde a formatação cor configuração até a frequência, tema etc.
+
+Este blog é feito em **[Jekyll](https://jekyllrb.com/)** hospedado no **[GithubPages](https://pages.github.com/)** tecnologias abertas e de custo zero.
+
+De certa forma colocar esse projeto no ar me faz lembrar de tempos atrás, antes das redes sociais dominarem a internet, quando não havia essa centralização de tudo em poucos lugares, com pessoas disputando a narrativa com cada vez menos conteúdo e argumentos, buscando apenas **vencer** toda e qualquer conversa. Embora não seja possível voltar para o tempo em que era necessário decorar ou anotar a URL dos seu site favorito, este projeto busca ter a leveza desses tempos. Espero que seja útil aos que leiam e que também se animem a fazer o mesmo.
+
+> _"Não importa o quão atroz seja a batalha... nunca abandone a honra" - Garrosh HellScream_
